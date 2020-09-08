@@ -1,2 +1,2 @@
 # planningku
-awal coba-coba
+this is my plan
